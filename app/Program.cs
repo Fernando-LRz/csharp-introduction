@@ -328,7 +328,7 @@ int Some(Func<int, int, int> fn, int number)
 }
 */
 
-// Ocatava parte - LINQ
+// Octava parte - LINQ
 /*
 // Primera parte: Origen de datos
 var names = new List<string>()
